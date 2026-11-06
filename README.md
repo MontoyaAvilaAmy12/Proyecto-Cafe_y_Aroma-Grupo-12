@@ -5,7 +5,7 @@ Sistema de Gestión y Control de Ventas para Cafetería Café &amp; Aroma
 Sistema desarrollado en Java bajo el paradigma de Programación Orientada a Objetos (POO) para la gestión de productos, inventarios, pedidos y control de ventas de la cafetería Café & Aroma[cite: 2].
 
 ## Tecnologías Utilizadas
-* Java SE (JDK 17 o superior)
+* Java SE (JDK 17, se recomienda usar Java 21)
 * Apache NetBeans IDE
 * Git / GitHub[cite: 1]
 
@@ -20,6 +20,6 @@ Sistema desarrollado en Java bajo el paradigma de Programación Orientada a Obje
 
 ## Integrantes
 * **Montoya Avila Amy Daniela** - [@MontoyaAvilaAmy12](https://github.com/MontoyaAvilaAmy12) - *admontoy@espol.edu.ec*
-* **Yautibug Moina Jessica Vanessa** - [@YautibugJessica](https://github.com/YautibugJesssica)
+* **Yautibug Moina Jessica Vanessa** - [@YautibugJessica](https://github.com/YautibugJesssica) - *advalenz@espol.edu.ec*
 * **Adrián André Valenzuela Vera** - [@AValenzuela1806](https://github.com/AValenzuela1806) - *advalenz@espol.edu.ec*
 
