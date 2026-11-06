@@ -21,5 +21,5 @@ Sistema desarrollado en Java bajo el paradigma de Programación Orientada a Obje
 ## Integrantes
 * **Montoya Avila Amy Daniela** - [@MontoyaAvilaAmy12](https://github.com/MontoyaAvilaAmy12) - *admontoy@espol.edu.ec*
 * **Yautibug Moina Jessica Vanessa** - [@YautibugJessica](https://github.com/YautibugJesssica)
-* **Adrián André Valenzuela Vera** - [@AValenzuela1806](https://github.com/AValenzuela1806)
+* **Adrián André Valenzuela Vera** - [@AValenzuela1806](https://github.com/AValenzuela1806) - *advalenz@espol.edu.ec*
 
