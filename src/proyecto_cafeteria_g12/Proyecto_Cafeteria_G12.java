@@ -100,7 +100,7 @@ public class Proyecto_Cafeteria_G12 {
                         } else {
                             Producto prodEncontrado = inventario.consultarProducto(nombreBusqueda);
                             if (prodEncontrado != null) {
-                                System.out.println("Cantidad a llevar: ");
+                                System.out.print("Cantidad a llevar: ");
                                 int cantidad = Integer.parseInt(scanner.nextLine());
                                 nuevoPedido.agregarProducto(prodEncontrado, cantidad);
                             } else {
