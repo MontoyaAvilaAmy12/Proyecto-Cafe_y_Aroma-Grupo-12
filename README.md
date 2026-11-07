@@ -12,6 +12,7 @@ Sistema desarrollado en Java bajo el paradigma de Programación Orientada a Obje
 ## Estructura del Repositorio
 * `src/`: Código fuente de la aplicación Java (`Producto`, `Bebida`, `Alimento`, `Servicio`, `Pedido`, `DetallePedido`, `Inventario`, `GestorVentas`, `Proyecto_Cafeteria_G12`).
 * UML Cafe&Aroma.drawio.png
+*  02-Informe- SISTEMA DE GESTIÓN Y CONTROL DE VENTAS PARA CAFETERÍA “CAFÉ & AROMA”.doc
 
 ## Instrucciones de Ejecución
 1. Clonar o descargar el repositorio en tu equipo[cite: 1].
